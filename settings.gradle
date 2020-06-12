@@ -1,0 +1,3 @@
+rootProject.name='SwpieLoggingApp'
+include ':app'
+include ':swipelogger'
