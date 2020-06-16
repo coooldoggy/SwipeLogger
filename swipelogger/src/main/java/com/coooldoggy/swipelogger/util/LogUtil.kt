@@ -1,6 +1,4 @@
-package com.coooldoggy.swipelogger
-
-import android.util.Log
+package com.coooldoggy.swipelogger.util
 
 class LogUtil {
     private val TAG = LogUtil::class.java.simpleName
